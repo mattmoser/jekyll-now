@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+#Matt Moser
 
-### More Information
+### Current
 
-A place to include any other types of information that you'd like to include about yourself. 
+Matt Moser is a pilot in the USAF.
 
-### Contact me
+### Education
 
-[email@domain.com](mailto:email@domain.com)
+Missouri S&T
+Master of Science (MS), Mechanical Engineering (2012)
+Bachelor of Science (BS), Mechanical Engineering (2006)
+
