@@ -15,6 +15,12 @@ avatar: https://www.linkedin.com/reg/join-pprofile?_ed=0_0dpSzn-5ElkAYW7bjGuTU5H
 # Flags below are optional
 #
 
+# Prose
+prose:
+  rooturl: ''
+  media: 'images'
+  metadata:
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble: 
